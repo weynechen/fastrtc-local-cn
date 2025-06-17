@@ -165,7 +165,7 @@ MIT
 
 ### 项目结构
 ```
-fastrtc_ex/
+fastrtc-local-cn/
 ├── main.py              # 主应用程序入口
 ├── stt_adapter.py       # 语音转文本适配器
 ├── tts_adapter.py       # 文本转语音适配器
