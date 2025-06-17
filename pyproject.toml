@@ -1,0 +1,17 @@
+[project]
+name = "fastrtc-local-cn"
+version = "0.1.0"
+description = "fastrtc demo , run localy"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastrtc[stt,tts,vad]>=0.0.28",
+    "funasr>=1.2.6",
+    "kokoro>=0.9.4",
+    "litellm>=1.72.6",
+    "misaki[zh]>=0.8.1",
+    "pip>=25.1.1",
+    "torch>=2.7.1",
+    "torchaudio>=2.7.1",
+]
